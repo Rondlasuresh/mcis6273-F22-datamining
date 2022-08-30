@@ -4,4 +4,4 @@
 
 * The main purpose of data mining is to extract **valuable information** from available data.
 
-* A goal of data mining is to explain some observed *event or condition. *
+* A goal of data mining is to explain some observed *event or condition*
